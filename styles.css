@@ -49,3 +49,15 @@ blockquote {
     background-color:rgba(192,192,192,0.4);
     border-left: 3px solid rgba(192,192,192,0.8)
 }
+
+.farmer01 {
+    padding-left: 3px;
+    border-left: 3px solid rgb(216, 134, 57);
+    background-color: rgba(216,134,57,0.2);
+}
+
+.villagers {
+    padding-left: 3px;
+    border-left: 3px solid rgb(214, 53, 53);
+    background-color: rgba(214,53,53,0.2);
+}
