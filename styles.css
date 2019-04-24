@@ -6,10 +6,10 @@ body {
     font-size: 15px;
     color: #444A49;
     background: -webkit-linear-gradient(113deg, rgb(239, 215, 189), rgb(200, 118, 28));
-    background: linear-gradient(113deg, rgb(239, 215, 189), rgb(200, 118, 28));
-
-
-  }
+    background: linear-gradient(113deg, rgb(239, 215, 189), rgb(200, 118, 28)), url(https://i.imgur.com/t9I1bnD.png);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/bc/Guo_Xu_album_dated_1503_%2811%29.jpg);
+    background-repeat: no-repeat;
+}
 
 h1 {
     font-size: 25px;
