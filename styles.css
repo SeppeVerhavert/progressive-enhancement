@@ -5,7 +5,10 @@ body {
     letter-spacing: 2px;
     font-size: 15px;
     color: #444A49;
-    background-color:  #f2e6d9;
+    background: -webkit-linear-gradient(113deg, rgb(239, 215, 189), rgb(200, 118, 28));
+    background: linear-gradient(113deg, rgb(239, 215, 189), rgb(200, 118, 28));
+
+
   }
 
 h1 {
