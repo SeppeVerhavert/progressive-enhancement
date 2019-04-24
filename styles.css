@@ -1,4 +1,6 @@
 body {
+    max-width: 90%;
+    margin: 5%;
     font-family: "Serif";
     letter-spacing: 2px;
     font-size: 16px;
@@ -25,4 +27,8 @@ a:visited {
 a:hover {
     color:#444A49;
     background-color: #FA6C15;
+}
+
+blockquote {
+    max-width: 50%;
 }
