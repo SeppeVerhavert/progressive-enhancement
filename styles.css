@@ -4,35 +4,35 @@ body {
     font-family: "Serif";
     letter-spacing: 2px;
     font-size: 15px;
-    color: #444A49;
-    background: -webkit-linear-gradient(113deg, rgb(239, 215, 189), rgb(200, 118, 28));
-    background: linear-gradient(113deg, rgb(239, 215, 189), rgb(200, 118, 28)), url(https://i.imgur.com/t9I1bnD.png);
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/bc/Guo_Xu_album_dated_1503_%2811%29.jpg);
-    background-repeat: no-repeat;
+    color: #59544F;
+    background: -webkit-linear-gradient(136deg, rgb(208, 200, 190), rgb(182, 170, 160));
+    background: linear-gradient(136deg, rgb(208, 200, 190), rgb(182, 170, 160));
 }
 
 h1 {
     font-size: 25px;
+    color: #A65D56;
 }
 
 h2 {
     font-size: 20px;
+    color: #A67165;
 }
 
 a {
-    color:#FA6C15;
+    color:#A65D56;
     text-decoration: underline;
     font-size: 16px;
 }
 
 a:visited {
-    color: #000000
+    color: #A67165
     ;
 }
 
 a:hover {
     color:#444A49;
-    background-color: #FA6C15;
+    background-color: #A65D56;
 }
 
 blockquote {
