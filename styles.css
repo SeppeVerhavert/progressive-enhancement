@@ -3,21 +3,22 @@ body {
     margin: 5%;
     font-family: "Serif";
     letter-spacing: 2px;
-    font-size: 16px;
+    font-size: 15px;
     color: #444A49;
   }
 
 h1 {
-    font-size: 32px;
+    font-size: 25px;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 20px;
 }
 
 a {
     color:#FA6C15;
     text-decoration: underline;
+    font-size: 16px;
 }
 
 a:visited {
@@ -32,4 +33,10 @@ a:hover {
 blockquote {
     max-width: 50%;
     margin-left: 50%;
+    padding-left: 30px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-size: 160%;
+    background-color:rgba(192,192,192,0.15);
+    border-left: 3px solid rgba(192,192,192,0.5)
 }
