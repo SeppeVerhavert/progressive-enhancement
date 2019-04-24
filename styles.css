@@ -17,3 +17,12 @@ a {
     color:#FA6C15;
     text-decoration: underline;
 }
+
+a:visited {
+    color: #BABAB8;
+}
+
+a:hover {
+    color:#444A49;
+    background-color: #FA6C15;
+}
