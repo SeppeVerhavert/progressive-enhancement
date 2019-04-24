@@ -9,6 +9,10 @@ body {
     background: linear-gradient(136deg, rgb(208, 200, 190), rgb(182, 170, 160));
 }
 
+.quotation {
+    font-style: italic;
+}
+
 h1 {
     font-size: 25px;
     color: #A65D56;
