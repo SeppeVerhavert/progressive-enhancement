@@ -1,7 +1,10 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
 body {
     max-width: 90%;
     margin: 5%;
-    font-family: "Serif";
     letter-spacing: 2px;
     font-size: 15px;
     color: #59544F;
@@ -12,7 +15,7 @@ body {
 img, figcaption {
     float: right;
     max-width: 30%;
-    margin-right: 10px;
+    margin-left: 10px;
 }
 
 .quotation {
@@ -97,3 +100,12 @@ table tr:nth-child(even){
 h2+p:first-of-type {
     font-weight:bold;
 }
+
+.notification{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    background-color: white;
+    width: 100%;
+  }
