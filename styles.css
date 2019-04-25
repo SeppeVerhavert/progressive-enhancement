@@ -9,6 +9,12 @@ body {
     background: linear-gradient(136deg, rgb(208, 200, 190), rgb(182, 170, 160));
 }
 
+img, figcaption {
+    float: right;
+    max-width: 30%;
+    margin-right: 10px;
+}
+
 .quotation {
     font-style: italic;
 }
