@@ -66,6 +66,24 @@ blockquote {
     background-color: rgba(214,53,53,0.2);
 }
 
+.good {
+    text-transform: uppercase;
+    background-color: green;
+}
+
+.bad {
+    text-transform: uppercase;
+    background-color: red;
+}
+
 header > p {
     background-color:rgba(255, 255, 0, 0.5);
+}
+
+table tr:nth-child(odd){
+    background-color:#A67165;
+}
+
+table tr:nth-child(even){
+    background-color:#A65D56;
 }
