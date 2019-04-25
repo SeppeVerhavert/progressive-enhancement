@@ -13,6 +13,10 @@ body {
     font-style: italic;
 }
 
+q{
+    font-style: italic;
+}
+
 h1 {
     font-size: 25px;
     color: #A65D56;
@@ -60,4 +64,8 @@ blockquote {
     padding-left: 3px;
     border-left: 3px solid rgb(214, 53, 53);
     background-color: rgba(214,53,53,0.2);
+}
+
+header > p {
+    background-color:rgba(255, 255, 0, 0.5);
 }
